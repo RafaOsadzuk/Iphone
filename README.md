@@ -1,18 +1,7 @@
-## Getting Started
+## Modelagem-e-Diagramação-de-um-Componente-iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+diagrama e codigo feito como um dos desafios de código do Bootcamp Santander 2024 - backend java, onde foi feita a pratica de um diagrama de classes e conceitos de orientação a objeto, além de interfaces.
 
-## Folder Structure
+## ideia principal
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+foi feito uma simulação de interfaces de um Iphone, Contendo Navegador, reprodutor musical e aparelho telefonico podendo ligar, atender e enviar correio de voz.
